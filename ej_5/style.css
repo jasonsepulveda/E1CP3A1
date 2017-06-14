@@ -1,0 +1,11 @@
+.box {
+  position: relative;
+  float: left;
+
+}
+.ribbon {
+  position: absolute;
+  top: 44px;
+  left: 29px;
+
+}

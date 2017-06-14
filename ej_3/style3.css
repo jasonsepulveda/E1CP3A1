@@ -1,0 +1,37 @@
+.uno {
+	background-color: red;
+	height: 200px;
+	width: 20%;
+	float: left;
+}
+.dos {
+	background-color: green;
+	height: 200px;
+	width: 70%;
+	float: left;
+
+}
+.tres {
+	background-color: red;
+	height: 200px;
+	width: 20%;
+	float: left;
+}
+.cuatro {
+	background-color: white;
+	height: 200px;
+	width: 70%;
+	float: left;
+}
+.cinco {
+	background-color: red;
+	height: 200px;
+	width: 20%;
+	float: left;
+}
+.seis {
+	background-color: black;
+	height: 200px;
+	width: 70%;
+	float: left;
+}

@@ -1,0 +1,12 @@
+.box {
+	position: relative;
+}
+.ribbon {
+	position: absolute;
+	left: 130px;
+	top: 150px;
+	
+}
+p {
+	color: silver;
+}

@@ -1,0 +1,17 @@
+.uno {
+	background-color: red;
+	height: 240px;
+	width: 240px;
+	-moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    position: relative;
+    margin-top: 130px;
+    margin-left: 320px;
+}
+.cero {
+	border: solid 1px black;
+	height: 500px;
+	width: 900px;
+	background-color: white;
+}
